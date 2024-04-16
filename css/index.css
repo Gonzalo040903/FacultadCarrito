@@ -1,0 +1,13 @@
+img{
+    width: 200px !important;
+}
+
+#col{
+    border: 2px red solid;
+    height: 1000px;
+}
+
+#row{
+    border: 3px green solid;
+    padding: 2px;
+}
